@@ -59,3 +59,7 @@ Ce projet vise à prédire le prix d’un bien immobilier en fonction de ses car
 
 Ces projets sont encore perfectibles.  
 Les suggestions, remarques ou critiques constructives sont les bienvenues pour améliorer les approches et les résultats.
+
+
+
+This README is also available in English [here](README_EN.md).
